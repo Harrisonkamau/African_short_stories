@@ -1,6 +1,10 @@
-body{
-    background-color: blue;
-    background-image: url('images/Nicolas_Henry_Bus_Oromo_from_African_Tales_from_Today.jpg');
+body {
+    margin: 0 auto;
+    padding: 2em 2em 4em;
+    max-width: 800px;
+    font-size: 16px;
+    line-height: 1.5em;
+    background-color: orange;
 }
 h1{
     text-align: center;
@@ -28,5 +32,8 @@ li a:hover {
     height:300px;
     width:100px;
     float:left;
-    padding:5px; 
+    padding:5px;
+}
+samp{
+  display: inherit;
 }
